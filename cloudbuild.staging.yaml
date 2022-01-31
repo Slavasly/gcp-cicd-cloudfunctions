@@ -26,7 +26,7 @@ steps:
 
 substitutions:
     _FUNCTION_PROJECT : gcp-2021-3-phase2-bruksha-stag
-    _FUNCTION_NAME    : my-nodejs-app
+    _FUNCTION_NAME    : nodejs-app
     _FUNCTION_REGION  : europe-west1
     _FUNCTION_RUNTIME : nodejs16
     _ENTRY_POINT      : HelloWorld
